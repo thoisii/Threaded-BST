@@ -1,1 +1,2 @@
 D:\LU\SEM 4\CSIS 215\LAB2-Binary Tree\Trenton_Hoisington_ThreadedBST_Assignment\Lab2_BinaryTree\Debug\Lab2_BinaryTree.exe
+D:\github\Threaded-BST\Lab2_BinaryTree\Debug\Lab2_BinaryTree.exe
