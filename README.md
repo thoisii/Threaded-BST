@@ -4,4 +4,4 @@ Made 3/10/2021 - Lab submission for CSIS 215
 
 # Instructions
 -Run .exe to see example program
--Open Source.cpp to edit
+-Open and run Source.cpp within Visual Studio to edit
