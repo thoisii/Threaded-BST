@@ -45,7 +45,7 @@ int main() {
 	cout << "My BST tree is of size " << myBST.size() << endl;
 
 	//tests print & printhelpfunctions
-	cout << "My tree's structure is <tests my changes to the print function: " << endl;
+	cout << "My tree's structure is: " << endl;
 
 	myBST.print();
 
